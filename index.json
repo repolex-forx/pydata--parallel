@@ -1,0 +1,11 @@
+{
+  "org": "pydata",
+  "repo": "parallel",
+  "versions": [
+    {
+      "commit": "ebac6249c0bcb3faa0e21794450394ff71e44930",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:39:03.188630+00:00"
+    }
+  ]
+}
