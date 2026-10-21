@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydata/parallel/commit/ebac6249c0bcb3faa0e21794450394ff71e44930",
       "git:hexsha": "ebac6249c0bcb3faa0e21794450394ff71e44930",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T20:39:03.188196+00:00"
     }
   ]
 }
